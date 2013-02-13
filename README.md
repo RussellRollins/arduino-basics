@@ -7,6 +7,6 @@ relay_blink_morse_generator
 ===========================
 
 This program takes in a string of characters and outputs them
-by activating and deactivating a relay.  I've got my relay
-hooked up to some Christmas lights.  Now I can signal for help
-from the office!
+by activating and deactivating a relay to dispay morse code.
+I've got my relay hooked up to some Christmas lights.  Now I
+can signal for help from the office!
